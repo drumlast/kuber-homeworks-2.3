@@ -47,7 +47,8 @@ curl http://127.0.0.1:8088
 
 Скриншот результата:
 
-![configmap web](img/1.png)
+![configmap web](img/1-1.png)
+![configmap web](img/1-2.png)
 
 ---
 
@@ -92,7 +93,9 @@ curl -k https://127.0.0.1/
 
 Скриншот результата:
 
-![curl https](img/2.png)
+![curl https](img/2-1.png)
+![curl https](img/2-2.png)
+![curl https](img/2-3.png)
 
 ---
 
